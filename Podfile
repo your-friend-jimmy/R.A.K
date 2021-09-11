@@ -9,6 +9,7 @@ target 'RAK' do
   pod 'Firebase/Firestore'
   pod 'Firebase/Storage'
   pod 'Firebase/Analytics'
+  pod 'SDWebImage'
   # Pods for RAK
 
 end

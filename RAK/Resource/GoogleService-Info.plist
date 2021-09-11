@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>237230167183-otu8jeln46s7imp50ao89nc2dt7fbjun.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.237230167183-otu8jeln46s7imp50ao89nc2dt7fbjun</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHDloNWBRRCbQSGIUhD-86zU2QdhGGw5A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>237230167183</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.phillipsjames.RAK</string>
+	<key>PROJECT_ID</key>
+	<string>rakapp-87978</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rakapp-87978.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:237230167183:ios:7ca734bfe46c2534f9ccfa</string>
+</dict>
+</plist>
